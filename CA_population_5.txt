@@ -1,0 +1,5 @@
+Los_Angeles_County 10081570
+San_Diego_County 3316073
+Orange_County 3168044
+Riverside_County 2411439
+San_Bernardino_County 2149031
